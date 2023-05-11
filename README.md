@@ -21,7 +21,7 @@ Sinta-se à vontade para explorar os projetos. Se você tiver alguma sugestão o
 
 ## Projetos:
 
-* **primeiro:** https://bit.ly/?
+* **Olist - Análise Exploratória de Dados:** https://bit.ly/?
 * **segundo:** https://bit.ly/?
 * **terceiro:** https://bit.ly/?
 * **quarto:** https://bit.ly/?
